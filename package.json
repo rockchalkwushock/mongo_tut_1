@@ -1,0 +1,24 @@
+{
+  "name": "mongo_tut_1",
+  "version": "1.0.0",
+  "description": "Stephen Grider Mongo Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockchalkwushock/mongo_tut_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rockchalkwushock/mongo_tut_1/issues"
+  },
+  "homepage": "https://github.com/rockchalkwushock/mongo_tut_1#readme",
+  "dependencies": {
+    "mocha": "^3.1.2",
+    "mongoose": "^4.6.8",
+    "nodemon": "^1.11.0"
+  }
+}

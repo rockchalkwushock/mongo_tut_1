@@ -17,7 +17,7 @@ describe('Deleting a user', () => {
       .then((user) => {
         assert(user === null);
         done();
-      })
+      });
   });
 
   // NOTE: These will use User.

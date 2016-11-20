@@ -4,7 +4,7 @@
   "description": "Stephen Grider Mongo Tutorial",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "nodemon --exec 'mocha -R min'"
   },
   "repository": {
     "type": "git",
